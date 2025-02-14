@@ -2,6 +2,9 @@
 .venv
 venv
 
+# IDE (PyCharm)
+.idea
+
 # PyInstaller
 build
 dist
